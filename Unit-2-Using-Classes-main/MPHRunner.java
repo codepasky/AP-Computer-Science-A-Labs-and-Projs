@@ -1,6 +1,6 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
-//Name -
+//Name - paschal
 
 import java.util.Scanner;
 import static java.lang.System.*;
@@ -31,5 +31,6 @@ public class MPHRunner
 50 2 25 = 21 MPH
 10 10 19 = 1 MPH
 100 50 77 = 2 MPH
+
 
 */
