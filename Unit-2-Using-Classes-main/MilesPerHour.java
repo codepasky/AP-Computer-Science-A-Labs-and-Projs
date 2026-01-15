@@ -1,6 +1,6 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
-//Name -
+//Name - paschal
 
 public class MilesPerHour
 {
@@ -10,4 +10,5 @@ public class MilesPerHour
 		return Math.round(dist / totalHours);
 	}
 }
+
 
